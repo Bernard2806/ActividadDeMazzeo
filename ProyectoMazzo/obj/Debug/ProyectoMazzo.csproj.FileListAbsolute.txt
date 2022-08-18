@@ -1,0 +1,6 @@
+C:\Users\info-1\source\repos\ProyectoMazzo\ProyectoMazzo\obj\Debug\ProyectoMazzo.csprojAssemblyReference.cache
+C:\Users\info-1\source\repos\ProyectoMazzo\ProyectoMazzo\bin\Debug\ProyectoMazzo.exe.config
+C:\Users\info-1\source\repos\ProyectoMazzo\ProyectoMazzo\bin\Debug\ProyectoMazzo.exe
+C:\Users\info-1\source\repos\ProyectoMazzo\ProyectoMazzo\bin\Debug\ProyectoMazzo.pdb
+C:\Users\info-1\source\repos\ProyectoMazzo\ProyectoMazzo\obj\Debug\ProyectoMazzo.exe
+C:\Users\info-1\source\repos\ProyectoMazzo\ProyectoMazzo\obj\Debug\ProyectoMazzo.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoMazzo", "ProyectoMazzo\ProyectoMazzo.csproj", "{0C6CA05F-3B54-471B-94A3-7FBEE6A0339E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6CA05F-3B54-471B-94A3-7FBEE6A0339E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6CA05F-3B54-471B-94A3-7FBEE6A0339E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6CA05F-3B54-471B-94A3-7FBEE6A0339E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6CA05F-3B54-471B-94A3-7FBEE6A0339E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4E0DFD-9DE0-4B72-B910-005CE6AAC961}
+	EndGlobalSection
+EndGlobal
