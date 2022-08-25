@@ -38,5 +38,30 @@ namespace ProyectoMazzo
         {
             this.Precio = precio;
         }
+        public string getmarca()
+        {
+            return Marca;
+        }
+        public int getruedas()
+        {
+            return Ruedas; 
+        }
+        public string getcolor()
+        {
+            return Color;
+        }
+        public string gettransmision()
+        {
+            return Transmision;
+        }
+        public string getvelocidad()
+        {
+            return Velocidad;
+        }
+        public double getprecio()
+        {
+            return Precio;
+        }
+
     }
 }
